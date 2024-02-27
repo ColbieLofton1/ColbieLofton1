@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ColbieLofton1
-- 👀 I’m interested in AI, ML and Blockchain Technologies
+- 👀 I’m interested in AI, ML and Blockchain Technologies!
 - 🌱 I’m currently learning AI! 
 - 📫 How to reach me
 - email: colbielofton@gmail.com
