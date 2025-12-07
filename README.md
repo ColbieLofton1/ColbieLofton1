@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI! 
 - 📫 How to reach me
 - email: colbielofton@gmail.com
-- website: colbielofton.com
+- website: https://colbielofton.studio.site/
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I am a twin! 
 
